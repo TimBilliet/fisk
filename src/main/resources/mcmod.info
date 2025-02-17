@@ -1,0 +1,14 @@
+[
+{
+  "modid": "fisk",
+  "name": "Fisk Mod",
+  "description": "i <3 fisk",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "updateUrl": "",
+  "authorList": ["Timmeke_"],
+  "logoFile": "assets/fisk.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
